@@ -1,6 +1,6 @@
-# demo_app
+# auth_app
 
-A new Flutter project.
+The Front-End screen (Sign In/Up) using Flutter with a clean architecture.
 
 ## Getting Started
 
